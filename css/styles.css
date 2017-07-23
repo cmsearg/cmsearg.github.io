@@ -11,12 +11,12 @@ p, li {
 }
 
 .project {
-    background-color: grey;
+    background-color:#E3E2E5;
     width: 543px;
 }
 
 body{
-    background: url('../images/abstract-mosaic-background.png') no-repeat center center fixed;
+    background: url('../images/2144.jpg') no-repeat center center fixed;
     background-size: cover
 }
 
@@ -26,15 +26,14 @@ body{
 }
 
 header, footer{
-    background-color: #595959;
+    background-color: #EFFAFF;
     text-align: center;
     padding: 15px 30px;
 }
 
 .main-content{
-    background-color: #808f85;
+    background-color: #D7E1E5;
     padding: 10px 0;
-    border-top: 2px solid #cfd11a;
 }
 
 header img {
@@ -56,7 +55,7 @@ header img {
 }
 
 a{
-    color: #CFD11A;
+    color: black;
     text-decoration: none;
 }
 
@@ -69,7 +68,7 @@ a{
 }
 
 #projects {
-    background-color: #808f85;
+    background-color: #B3BCBF;
 }
 
 .clearfix:after {
